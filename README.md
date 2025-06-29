@@ -25,6 +25,5 @@ A **clean, responsive Razorpay landing page clone** built using **HTML and Tailw
 - **HTML5**
 - **Tailwind CSS** (via CDN)
 - **Google Fonts** (optional)
-- **Heroicons** (optional)
 
 
